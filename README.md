@@ -3,7 +3,7 @@
 This repo is based on the [30 Day Vanilla JS Challenge](https://JavaScript30.com) of [Wes Bos](https://wesbos.com/). 
 It contains the following lessons:
 
-- Day 1 - JavaScript Drum Kit
+- [Day 1 - JavaScript Drum Kit](https://github.com/nielslange/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 - Day 02 - JS and CSS Clock
 - Day 03 - CSS Variables
 - Day 04 - Array Cardio Day 1
