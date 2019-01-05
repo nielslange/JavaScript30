@@ -5,7 +5,7 @@ It contains the following lessons:
 
 - [Day 1 - JavaScript Drum Kit](https://github.com/nielslange/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 - [Day 02 - JS and CSS Clock](https://github.com/nielslange/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
-- Day 03 - CSS Variables
+- [Day 03 - CSS Variables](https://github.com/nielslange/JavaScript30/tree/master/03%20-%20CSS%20Variables)
 - Day 04 - Array Cardio Day 1
 - Day 05 - Flex Panel Gallery
 - Day 06 - Type Ahead
