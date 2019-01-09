@@ -11,7 +11,7 @@ It contains the following lessons:
 - [Day 06 - Type Ahead](https://github.com/nielslange/JavaScript30/tree/master/06%20-%20Type%20Ahead)
 - [Day 07 - Array Cardio Day 2](https://github.com/nielslange/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
 - [Day 08 - Fun with HTML5 Canvas](https://github.com/nielslange/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
-- Day 09 - Dev Tools Domination
+- [Day 09 - Dev Tools Domination](https://github.com/nielslange/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination)
 - Day 10 - Hold Shift and Check Checkboxes
 - Day 11 - Custom Video Player
 - Day 12 - Key Sequence Detection
