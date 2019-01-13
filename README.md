@@ -13,7 +13,7 @@ It contains the following lessons:
 - [Day 08 - Fun with HTML5 Canvas](https://github.com/nielslange/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
 - [Day 09 - Dev Tools Domination](https://github.com/nielslange/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination)
 - [Day 10 - Hold Shift and Check Checkboxes](https://github.com/nielslange/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
-- Day 11 - Custom Video Player
+- [Day 11 - Custom Video Player](https://github.com/nielslange/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
 - Day 12 - Key Sequence Detection
 - Day 13 - Slide in on Scroll
 - Day 14 - JavaScript References VS Copying
