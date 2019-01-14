@@ -14,7 +14,7 @@ It contains the following lessons:
 - [Day 09 - Dev Tools Domination](https://github.com/nielslange/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination)
 - [Day 10 - Hold Shift and Check Checkboxes](https://github.com/nielslange/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
 - [Day 11 - Custom Video Player](https://github.com/nielslange/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
-- Day 12 - Key Sequence Detection
+- [Day 12 - Key Sequence Detection](https://github.com/nielslange/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection)
 - Day 13 - Slide in on Scroll
 - Day 14 - JavaScript References VS Copying
 - Day 15 - LocalStorage
