@@ -16,7 +16,7 @@ It contains the following lessons:
 - [Day 11 - Custom Video Player](https://github.com/nielslange/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
 - [Day 12 - Key Sequence Detection](https://github.com/nielslange/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection)
 - [Day 13 - Slide in on Scroll](https://github.com/nielslange/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll)
-- Day 14 - JavaScript References VS Copying
+- [Day 14 - JavaScript References VS Copying](https://github.com/nielslange/JavaScript30/tree/master/14%20-%20JavaScript%20References%20VS%20Copying)
 - Day 15 - LocalStorage
 - Day 16 - Mouse Move Shadow
 - Day 17 - Sort Without Articles
