@@ -19,7 +19,7 @@ It contains the following lessons:
 - [Day 14 - JavaScript References VS Copying](https://github.com/nielslange/JavaScript30/tree/master/14%20-%20JavaScript%20References%20VS%20Copying)
 - [Day 15 - LocalStorage](https://github.com/nielslange/JavaScript30/tree/master/15%20-%20LocalStorage)
 - [Day 16 - Mouse Move Shadow](https://github.com/nielslange/JavaScript30/tree/master/16%20-%20Mouse%20Move%20Shadow)
-- Day 17 - Sort Without Articles
+- [Day 17 - Sort Without Articles](https://github.com/nielslange/JavaScript30/tree/master/17%20-%20Sort%20Without%20Articles)
 - Day 18 - Adding Up Times with Reduce
 - Day 19 - Webcam Fun
 - Day 20 - Speech Detection
