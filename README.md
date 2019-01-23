@@ -21,7 +21,7 @@ It contains the following lessons:
 - [Day 16 - Mouse Move Shadow](https://github.com/nielslange/JavaScript30/tree/master/16%20-%20Mouse%20Move%20Shadow)
 - [Day 17 - Sort Without Articles](https://github.com/nielslange/JavaScript30/tree/master/17%20-%20Sort%20Without%20Articles)
 - [Day 18 - Adding Up Times with Reduce](https://github.com/nielslange/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
-- Day 19 - Webcam Fun
+- [Day 19 - Webcam Fun](https://github.com/nielslange/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
 - Day 20 - Speech Detection
 - Day 21 - Geolocation
 - Day 22 - Follow Along Link Highlighter
