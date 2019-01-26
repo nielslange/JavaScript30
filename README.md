@@ -23,7 +23,7 @@ It contains the following lessons:
 - [Day 18 - Adding Up Times with Reduce](https://github.com/nielslange/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
 - [Day 19 - Webcam Fun](https://github.com/nielslange/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
 - [Day 20 - Speech Detection](https://github.com/nielslange/JavaScript30/tree/master/20%20-%20Speech%20Detection)
-- Day 21 - Geolocation
+- [Day 21 - Geolocation](https://github.com/nielslange/JavaScript30/tree/master/21%20-%20Geolocation)
 - Day 22 - Follow Along Link Highlighter
 - Day 23 - Speech Synthesis
 - Day 24 - Sticky Nav
