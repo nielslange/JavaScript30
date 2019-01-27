@@ -24,7 +24,7 @@ It contains the following lessons:
 - [Day 19 - Webcam Fun](https://github.com/nielslange/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
 - [Day 20 - Speech Detection](https://github.com/nielslange/JavaScript30/tree/master/20%20-%20Speech%20Detection)
 - [Day 21 - Geolocation](https://github.com/nielslange/JavaScript30/tree/master/21%20-%20Geolocation)
-- Day 22 - Follow Along Link Highlighter
+- [Day 22 - Follow Along Link Highlighter](https://github.com/nielslange/JavaScript30/tree/master/22%20-%20Follow%20Along%20Link%20Highlighter)
 - Day 23 - Speech Synthesis
 - Day 24 - Sticky Nav
 - Day 25 - Event Capture, Propagation, Bubbling and Once
